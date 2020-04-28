@@ -35,6 +35,7 @@ eureka:
         instance-id: microservicecloud-dept8001
         prefer-ip-address: true     #访问路径可以显示IP地址
 
+#eureka中服务提供者的info信息
 info:
   app.name: atguigu-microservicecloud
   company.name: www.atguigu.com
