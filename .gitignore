@@ -1,3 +1,5 @@
 # Project exclude paths
 /microservicecloud/microservicecloud-api/target/
-/microservicecloud/microservicecloud-provider-dept-8001/target/
+/microservicecloud/microservicecloud-provider-dept-8001/target/workspace
+.project
+.classpath
