@@ -1,13 +1,12 @@
 
 package com.atguigu.myrule;
 
-import java.util.List;
-import java.util.Random;
-
 import com.netflix.client.config.IClientConfig;
 import com.netflix.loadbalancer.AbstractLoadBalancerRule;
 import com.netflix.loadbalancer.ILoadBalancer;
 import com.netflix.loadbalancer.Server;
+
+import java.util.List;
 
 public class RandomRule_ZYFeign extends AbstractLoadBalancerRule {
 
